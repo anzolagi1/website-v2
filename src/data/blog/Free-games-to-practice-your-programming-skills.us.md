@@ -5,7 +5,7 @@ excerpt: "Here is our top 5 games you can play to practice your programming skil
 slug: "Free-games-to-practice-your-programming-skills"
 template: "post" # post or landing_post
 title: "Free games to practice your coding skills"
-image: "![coding-games.jpg](../../../static/images/blog/coding-games.jpg)"
+image: "(../../../static/images/blog/coding-games.jpg)"
 image_alt: "coding-games"
 cluster: "career-growth"
 status: "published"
