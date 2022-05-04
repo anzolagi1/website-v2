@@ -5,7 +5,7 @@ excerpt: "Aquí te dejamos nuestro top 5 de juegos gratis en los que puedes prac
 slug: "Juegos-gratis-para-practicar-tus-habilidades-de-programacion"
 template: "post" # post or landing_post
 title: "Juegos gratis para practicar tus habilidades de programación"
-image: "![coding-games.jpg](../../../static/images/blog/coding-games.jpg)"
+image: "(../../../static/images/blog/coding-games.jpg)"
 image_alt: "coding-games"
 cluster: "career-growth"
 status: "published"
