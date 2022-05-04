@@ -11,7 +11,7 @@ cluster: "career-growth"
 status: "published"
 
 ---
-# Free games to practice your coding skills
+# Free games to practice your coding skills.
 
 ![coding-games.jpg](../../../static/images/blog/coding-games.jpg)
 
